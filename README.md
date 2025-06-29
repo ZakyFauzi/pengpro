@@ -1,5 +1,5 @@
 # pengpro
 
-*Arsip tugas Pengenalan Pemrograman
+*Arsip tugas **Introduction to Programming**
 
 **pseudocode dan implementasi Golang
